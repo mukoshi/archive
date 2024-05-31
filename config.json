@@ -1,0 +1,8 @@
+{
+    "serverUrl":"172.21.240.1:21687",
+    "SPDVersion": "2.3.2",
+    "NetVersion": "0.0.3",
+    "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/0.0.3/SPDNet-2.3.2-0.0.3.apk",
+    "GiteeUpdateUrl": "https://gitee.com/catandA/catand-mine-mod-custom-rank_test/releases/download/0.0.3/SPDNet-2.3.2-0.0.3.apk",
+    "changeLog": "适配安卓5/6\\n修复各种崩溃bug\\n优化数据包发送"
+}
