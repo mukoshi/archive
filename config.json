@@ -1,5 +1,5 @@
 {
-    "serverUrl":"ws://serv.mukoshi.com:21687/socket.io/?token=aToken&SPDVersion=2.3.2&NetVersion=0.0.3&EIO=2&transport=websocket",
+    "serverUrl":"http://serv.mukoshi.com:21687/spdnet",
     "SPDVersion": "2.3.2",
     "NetVersion": "0.0.3",
     "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/0.0.3/SPDNet-2.3.2-0.0.3.apk",
